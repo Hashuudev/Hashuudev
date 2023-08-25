@@ -16,7 +16,7 @@
 - 🚀 **Beyond Boundaries, into the Byteverse**: I'm not just a programmer; I'm a boundary-pusher, turning code into pure magic. ✨
 - 🌌 **A Mind Forever Curious**: Learning is my lifeline. The tech realm is my playground, and every concept is a new adventure waiting to be conquered. 🧠
 - ⚔️ **Fearless in the Face of Code**: Whether it's a new language, a perplexing algorithm, or an uncharted framework, I thrive on mastering the unknown and emerging victorious. 💪
-- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
+- 📘 I’m Currently learning **Mern Stack Development**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Hashuudev "GitHub Profile").
 - 📫 How to reach me **hashir.ali.7125@gmail.com**.
