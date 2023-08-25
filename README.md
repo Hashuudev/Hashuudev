@@ -12,12 +12,12 @@
 
 <br>
 
-- 🥋 I'm Hashir Ali, a dedicated programming enthusiast and a relentless problem-solving aficionado. 💡 My world revolves around lines of code and the thrill of turning challenges into elegant solutions. 🚀
-- 👨‍💻 **Passion-Driven Programmer**: Programming is not just a skill; it's my passion. I thrive on exploring the intricacies of algorithms, unraveling complex puzzles, and transforming ideas into functional code.
-- 🧠 **Learning Junkie**: I'm an avid learner, constantly on the lookout for new horizons to conquer. The tech universe is my playground, and I'm always excited to dive into the latest technologies and explore uncharted territories.
-- 🔥 **Mastering the Unknown**: What sets me apart? My ability to swiftly grasp new skills and wield them like a pro in real-world scenarios. Whether it's a new language, framework, or tool, I'm up for the challenge of taming the unknown.
-- 🌐 **Tech Explorer**: I'm not content with just scratching the surface. I believe in delving deep into the tech stack, understanding the nuances, and creating impactful solutions that stand the test of real-world challenges.
-- 🛠️ **Crafting Real Solutions**: My code isn't just about syntax; it's about crafting meaningful solutions. I take pride in translating ideas into practical applications that make a difference.
+- 🌟 **Meet Hashir Ali**: The Alchemist of Code 🌟 
+- 🚀 **Beyond Boundaries, into the Byteverse**: I'm not just a programmer; I'm a boundary-pusher, turning code into pure magic. ✨
+- 🌌 **A Mind Forever Curious**: Learning is my lifeline. The tech realm is my playground, and every concept is a new adventure waiting to be conquered. 🧠
+- ⚔️ **Fearless in the Face of Code**: Whether it's a new language, a perplexing algorithm, or an uncharted framework, I thrive on mastering the unknown and emerging victorious. 💪
+- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
+- 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Hashuudev "GitHub Profile").
 - 📫 How to reach me **hashir.ali.7125@gmail.com**.
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/hashir-ali-dev/ "LinkedIn Profile").
