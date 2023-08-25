@@ -21,5 +21,5 @@
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Hashuudev "GitHub Profile").
 - 📫 How to reach me **hashir.ali.7125@gmail.com**.
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/hashir-ali-dev/ "LinkedIn Profile").
-- 🔗 Connect Me on [**Facebook**]([https://twitter.com/Alkaison/](https://www.facebook.com/hashir.rana.904) "Facebook Profile").
+- 🔗 Connect Me on [**Facebook**](https://www.facebook.com/hashir.rana.904 "Facebook Profile").
 - 🔗 Connect Me on [**Instagram**](https://www.instagram.com/hashir_alii_xd/ "Instagram Profile").
